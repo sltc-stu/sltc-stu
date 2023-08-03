@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sltc-stu
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on Go projects
+- 📫 How to reach me -> mailto:823789317@qq.com
